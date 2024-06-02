@@ -1,0 +1,81 @@
+header{
+  background-color:#FF6500;
+  padding: 1rem;
+  width: 100%;
+  font-size: large;
+  
+}
+span{
+  font-family: "Anton", sans-serif;
+  color:whitesmoke;
+  font-style: oblique;
+}
+body{
+  background-color: #E2DFD0;
+}
+header nav ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+ 
+}
+header nav ul li a {
+
+margin: 0 5rem;
+color: #eeee;
+text-decoration: none;
+}
+
+header nav ul li a:hover {
+border-bottom: 2px solid whitesmoke;
+
+}
+
+.conteudo{
+  margin: 2%;
+}
+.produtos__lista{
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+  flex-wrap:nowrap;
+ 
+ }
+
+h3{
+  text-align:center;
+  font-size: 1.5rem;
+  color: #FF6500;
+  
+}
+ footer{
+  text-align:center;background-color:#FF6500;
+  color: #EEEEEE;
+  padding: 1.5rem;
+  font-size:1rem;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap:nowrap;
+ }
+ p{
+  font-size: medium;
+  font-family: verdana;  
+  text-decoration: none;
+
+
+ }
+  
+ 
+  
+
+
+
+
+
+
+ 
+
